@@ -297,3 +297,4 @@ void viewAllTransactions()
         printf("\nNo transactions found.\n");
     }
 }
+
